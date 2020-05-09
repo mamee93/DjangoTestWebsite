@@ -1,0 +1,253 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+html{
+    font-family: proxima nova,sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+h3{
+    font-size: 26px;
+}
+p{
+    font-size: 20px;
+    font-weight: 2000;
+}
+.blue{
+    color: #1f98ff;
+}
+.bold{
+    font-weight: 500;
+}
+
+.nav{
+    width: 100%;
+    height: 110px;
+}
+.navWrapper{
+    width: 80%;
+    margin: auto;
+}
+.navWrapper a{
+    float: left;
+    margin-top: 3em;
+    text-decoration: none;
+}
+
+.right{
+    float: right;
+}
+.menu, .search{
+    display: flex;
+    align-items: center;
+}
+.menu img{
+    margin-right: 10px;
+}
+
+
+.search img{
+    margin-left: 10px;
+}
+.menu p,.search p{
+    color: #65747e;
+    font-size: 26px;
+}
+.menu{
+    margin-left: 50px;
+}
+.search {
+    margin-right: 50px;
+}
+.navIcon{
+    margin-right: 30px;
+}
+
+.imageSection{
+    width: 100%:
+}
+.imageSectionWrapper{
+    width: 80%;
+    margin: auto;
+    display: block;
+    height: 800px;
+    background-image: url(images/david-henrichs-399195.jpg);
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    position: relative;
+    
+}
+
+.blogPostInfo{
+    position: absolute;
+    bottom: 0;
+    
+    
+}
+.imageSectionWrapper h1{
+    color:white;
+    background-color: #1c2329;
+    width: 680px;
+    text-align: center;
+    padding: 0.25em;
+    opacity: 0.97;
+    border-radius: 2px;
+    margin:  0 0 20px -60px;
+    
+}
+.info{
+        color:white;
+    background-color: #1c2329;
+    width: 680px;
+    opacity: 0.97;
+    border-radius: 2px;
+    margin:  0 0 40px -30px;
+    padding: 0.25em 0.25em 0.25em 3em;
+}
+.info p{
+    margin: 15px 0;
+}
+.content{
+    width: 100%;
+}
+.contentWrapper{
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+
+.mainContent{
+    flex: 3;
+}
+.mainContent h1{
+    margin-top: 75px;
+}
+.mainContent h3{
+    margin-top: 75px;
+}
+.mainContent img{
+    width: 90%;
+}
+.mainContent p{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #657473;
+    line-height: 40px;
+     
+}
+.sideBar{
+    flex: 1;
+    margin-top: 30px;
+    text-align: right;
+    
+    
+}
+.tags p{
+    display: inline-block;
+    margin: 30px 10px 0 10px;
+    background-color: #e4eaef;
+    border-radius: 100px;
+    padding:  0.1em 2em;
+}
+
+.relatedChiled{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    
+}
+.relatedChiled h1{
+    margin: 0;  
+}
+.relatedChiled h1{
+    margin: 0 0 5px 0;
+    line-height: 30px; 
+}
+.relatedChiled a{
+   text-decoration: none; 
+}
+.relatedLeft,.relatedRight{
+    flex: 1;
+    
+}
+ 
+.Related{
+    margin-bottom: 100px''
+}
+.footer{
+    width: 100%;
+    height: 110px;
+    line-height: 110px;
+}
+.footerWrarrper{
+    width: 80%;
+    margin: auto; 
+}
+.footerWrarrper p{
+    color: #857473;
+    float: left;
+}
+
+.footerWrarrper img{
+    margin: 15px;
+    vertical-align: middle;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
